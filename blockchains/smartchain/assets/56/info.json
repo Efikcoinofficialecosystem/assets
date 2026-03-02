@@ -1,0 +1,13 @@
+{
+    "name": "Efikcoin Eternal",
+    "type": "BEP20",
+    "symbol": "ECE",
+    "decimals": 18,
+    "website": "https://efikcoinofficialecosystem.github.io/Efikcoin-Eternal/",
+    "description": "{\n  \"name\": \"EfikCoin Eternal\",\n  \"symbol\": \"ECE\",\n  \"decimals\": 18,\n  \"description\": \"A decentralized financial ecosystem for humanity\",\n  \"website\": \"https://efikcoinofficialecosystem.github.io/Efikcoin.ecosystem/\"\n}",
+    "explorer": "https://bscscan.com/token/56",
+    "status": "active",
+    "id": "56",
+    "links": [],
+    "tags": []
+}
