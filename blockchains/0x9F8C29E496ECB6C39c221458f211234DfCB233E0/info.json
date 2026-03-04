@@ -1,0 +1,22 @@
+{
+    "name": "EfikCoin Eternal",
+    "type": "BEP20",
+    "symbol": "ECE",
+    "decimals": 18,
+    "description": "A decentralized financial ecosystem on Binance Smart Chain (BEP-20) featuring staking pools with up to 125% APR, airdrop management, and real-time transaction tracking. Built for community growth and global financial inclusion.",
+    "website": "https://efikcoinofficialecosystem.github.io/Efikcoin-Eternal/",
+    "explorer": "https://bscscan.com/address/0x9F8C29E496ECB6C39c221458f211234DfCB233E0",
+    "id": "0x9F8C29E496ECB6C39c221458f211234DfCB233E0",
+    "status": "active",
+    "tags": ["defi", "staking", "governance", "gamefi"],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Efikcoinofficialecosystem/Efikcoin-Eternal"
+        },
+        {
+            "name": "docs",
+            "url": "https://efikcoinofficialecosystem.github.io/Efikcoin-Eternal/"
+        }
+    ]
+}
